@@ -5,10 +5,10 @@ import javafx.scene.control.Label;
 
 public class CalculatorController {
     @FXML
-    private Label welcomeText;
+    private Label calculationLabel;
 
     @FXML
-    protected void onHelloButtonClick() {
-        welcomeText.setText("Welcome to JavaFX Application!");
+    protected void onCeButtonClick() {
+        calculationLabel.setText("1337");
     }
 }
