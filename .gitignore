@@ -1,2 +1,4 @@
 # Project exclude paths
 /target/
+/javafx_lab5.iml
+/.idea/
